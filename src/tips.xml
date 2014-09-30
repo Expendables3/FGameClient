@@ -1,0 +1,967 @@
+<!--<?xml version="1.0" encoding="GB2312" ?>-->
+<?xml version="1.0" encoding="UTF-8" ?>
+<Languages>
+	<version value = "china" xmlVer="1" loginurl = "http://passport.me.zing.vn/login/" language="vi" />
+	
+	<language name="vn">
+		<String id ="NumTips">37</String>
+		<String id ="Tip1">Làm nhiệm vụ làm quen Ngư Chiến, bạn sẽ nhận được 1 Ngư Thủ</String>
+		<String id ="Tip2">Bạn có thể sở hữu nhiều Ngư Thủ cùng lúc</String>
+		<String id ="Tip3">Ngư thủ có thể chiến đấu trên nhà bạn bè hoặc tại Thế Giới Cá</String>
+		<String id ="Tip4">Thế Giới Cá rất rộng lớn và có nhiều báu vật được canh giữ bởi quái vật</String>
+		<String id ="Tip5">Ngư Thủ có 5 hệ: Kim, Mộc, Thổ, Thủy, Hỏa</String>
+		<String id ="Tip6">Trang bị ngư thủ gồm: Mũ, Áo giáp, Dây chuyền, Thắt lưng, Vũ khí, Nhẫn và Vòng tay</String>
+		<String id ="Tip7">Ngư thủ có nhiều cấp độ: Nhập Môn, Đệ Tử, Đại Đệ Tử... Bạn tự khám phá nhé</String>
+		<String id ="Tip8">Trang bị có thể cường hóa để mạnh hơn</String>
+		<String id ="Tip9">Sử dụng ngư thạch để cường hóa trang bị</String>
+		<String id ="Tip10">Mang Ngư Thủ đi chiến đấu để thu thập tem đổi quà</String>
+		<String id ="Tip11">10 viên tán có thể luyện được 1 viên đan cấp 1</String>
+		<String id ="Tip12">Một ngày, bạn có 5 lượt tấn công trên mỗi hồ nhà bạn bè</String>
+		<String id ="Tip13">Rương báu đổi từ bộ sưu tập có thể cho ra những món trang bị quý</String>
+		<String id ="Tip14">Mang nhiều Ngư Thủ, đánh Boss tại Thế Giới Cá sẽ dễ dàng hơn</String>
+		<String id ="Tip15">Sưu tập vật phẩm để đổi lấy rương báu</String>
+		<String id ="Tip16">Mặc áo giáp cho Ngư Thủ để có Ngư Thủ mạnh hơn</String>
+		<String id ="Tip17">Đừng quên trang bị vũ khí cho Ngư Thủ</String>
+		<String id ="Tip18">Vũ khí và trang bị cho ngư thủ có thể mua trong cửa hàng</String>
+		<String id ="Tip19">Bạn có thể lai ra Ngư Thủ khi sở hữu “công thức lai”</String>
+		<String id ="Tip20">Tìm “công thức lai” để biết cách lai Ngư Thủ.</String>
+		<String id ="Tip21">Đánh boss tại Thế Giới Cá có thể nhận được công thức lai đấy</String>
+		<String id ="Tip22">Từ level 7 bạn đã có thể tham gia myFish Ngư Chiến</String>
+		<String id ="Tip23">Công thức lai sẽ bị hủy sau khi lai Ngư Thủ</String>
+		<String id ="Tip24">1 Ngư thủ chỉ được dùng tối đa 1 viên đan mỗi hệ</String>
+		<String id ="Tip25">Đan có tác dụng cho 3 lượt đánh</String>
+		<String id ="Tip26">Dùng Đan hệ Hỏa có thể tăng Công cho Ngư thủ</String>
+		<String id ="Tip27">Dùng Đan hệ Thủy để hồi Máu cho Ngư thủ</String>
+		<String id ="Tip28">Dùng Đan hệ Mộc có thể giảm tối đa 50% Công của đối phương</String>
+		<String id ="Tip29">Dùng Đan hệ Thổ để gia tăng Thủ</String>
+		<String id ="Tip30">Dùng Đan hệ Kim gia tăng Chí mạng</String>
+		<String id ="Tip31">Mỗi lần tu luyện, đan tăng lên 1 cấp</String>
+		<String id ="Tip32">Thời gian tu luyện đan sẽ tăng theo cấp độ của đan</String>
+		<String id ="Tip33">Giao chiến với Ngư Thủ nhà bạn bè  sẽ rơi ra tán và đan</String>
+		<String id ="Tip34">Đan để lâu không dùng sẽ bị phế (hỏng), sau 7 ngày nếu không gia hạn sẽ biến mất</String>
+		<String id ="Tip35">Ngư thủ hệ nào sẽ rơi ra tán và đan hệ đó</String>
+		<String id ="Tip36">Hãy thu thập tán để luyện đan,  Ngư Thủ dùng đan chiến hơn nhiều đấy!</String>
+		<String id ="Tip37">Đồ bị khóa không thể giao dịch trong chợ đen</String>
+	</language>
+	
+	<language name="cn">
+		<!--<String id ="NumTips">37</String>-->
+		<String id ="NumTips">2</String>
+		<!--<String id ="Tip1">Làm nhiệm vụ làm quen Ngư Chiến, bạn sẽ nhận được 1 Ngư Thủ</String>-->
+		<String id ="Tip1">收藏品的物品怎么来~好友家钓鱼免费得到喔~</String>
+		<String id ="Tip2">Bạn có thể sở hữu nhiều Ngư Thủ cùng lúc</String>
+		<String id ="Tip3">Ngư thủ có thể chiến đấu trên nhà bạn bè hoặc tại Thế Giới Cá</String>
+		<String id ="Tip4">Thế Giới Cá rất rộng lớn và có nhiều báu vật được canh giữ bởi quái vật</String>
+		<String id ="Tip5">Ngư Thủ có 5 hệ: Kim, Mộc, Thổ, Thủy, Hỏa</String>
+		<String id ="Tip6">Trang bị ngư thủ gồm: Mũ, Áo giáp, Dây chuyền, Thắt lưng, Vũ khí, Nhẫn và Vòng tay</String>
+		<String id ="Tip7">Ngư thủ có nhiều cấp độ: Nhập Môn, Đệ Tử, Đại Đệ Tử... Bạn tự khám phá nhé</String>
+		<String id ="Tip8">Trang bị có thể cường hóa để mạnh hơn</String>
+		<String id ="Tip9">Sử dụng ngư thạch để cường hóa trang bị</String>
+		<String id ="Tip10">Mang Ngư Thủ đi chiến đấu để thu thập tem đổi quà</String>
+		<String id ="Tip11">10 viên tán có thể luyện được 1 viên đan cấp 1</String>
+		<String id ="Tip12">Một ngày, bạn có 5 lượt tấn công trên mỗi hồ nhà bạn bè</String>
+		<String id ="Tip13">Rương báu đổi từ bộ sưu tập có thể cho ra những món trang bị quý</String>
+		<String id ="Tip14">Mang nhiều Ngư Thủ, đánh Boss tại Thế Giới Cá sẽ dễ dàng hơn</String>
+		<String id ="Tip15">Sưu tập vật phẩm để đổi lấy rương báu</String>
+		<String id ="Tip16">Mặc áo giáp cho Ngư Thủ để có Ngư Thủ mạnh hơn</String>
+		<String id ="Tip17">Đừng quên trang bị vũ khí cho Ngư Thủ</String>
+		<String id ="Tip18">Vũ khí và trang bị cho ngư thủ có thể mua trong cửa hàng</String>
+		<String id ="Tip19">Bạn có thể lai ra Ngư Thủ khi sở hữu “công thức lai”</String>
+		<String id ="Tip20">Tìm “công thức lai” để biết cách lai Ngư Thủ.</String>
+		<String id ="Tip21">Đánh boss tại Thế Giới Cá có thể nhận được công thức lai đấy</String>
+		<String id ="Tip22">Từ level 7 bạn đã có thể tham gia myFish Ngư Chiến</String>
+		<String id ="Tip23">Công thức lai sẽ bị hủy sau khi lai Ngư Thủ</String>
+		<String id ="Tip24">1 Ngư thủ chỉ được dùng tối đa 1 viên đan mỗi hệ</String>
+		<String id ="Tip25">Đan có tác dụng cho 3 lượt đánh</String>
+		<String id ="Tip26">Dùng Đan hệ Hỏa có thể tăng Công cho Ngư thủ</String>
+		<String id ="Tip27">Dùng Đan hệ Thủy để hồi Máu cho Ngư thủ</String>
+		<String id ="Tip28">Dùng Đan hệ Mộc có thể giảm tối đa 50% Công của đối phương</String>
+		<String id ="Tip29">Dùng Đan hệ Thổ để gia tăng Thủ</String>
+		<String id ="Tip30">Dùng Đan hệ Kim gia tăng Chí mạng</String>
+		<String id ="Tip31">Mỗi lần tu luyện, đan tăng lên 1 cấp</String>
+		<String id ="Tip32">Thời gian tu luyện đan sẽ tăng theo cấp độ của đan</String>
+		<String id ="Tip33">Giao chiến với Ngư Thủ nhà bạn bè  sẽ rơi ra tán và đan</String>
+		<String id ="Tip34">Đan để lâu không dùng sẽ bị phế (hỏng), sau 7 ngày nếu không gia hạn sẽ biến mất</String>
+		<String id ="Tip35">Ngư thủ hệ nào sẽ rơi ra tán và đan hệ đó</String>
+		<String id ="Tip36">Hãy thu thập tán để luyện đan,  Ngư Thủ dùng đan chiến hơn nhiều đấy!</String>
+		<String id ="Tip37">Đồ bị khóa không thể giao dịch trong chợ đen</String>
+	</language>
+	
+	<wrongText>abc
+buoi
+buom
+bướm
+c_san
+c san
+cOnG san
+cong san
+cong_san
+cong-san
+congsan
+caibuoi
+cai-buoi
+caibuoi
+cái_buồi
+cáibuồi
+cai_chim
+caichim
+cái-chim
+cái_chim
+cáichim
+cai-chim
+cai_cu
+caicu
+caicu
+cai-cu
+cáicu
+cái_cu
+cái-cu
+cáicu
+cai_lon
+cai lon
+cai-lon
+lồn
+mulồn
+máulồn
+mulon
+maulon
+cailon
+cái lồn
+cái_lồn
+cái-lồn
+cáilồn
+caibuoi
+cai_buoi
+cai-buoi
+caibuoi
+cái_buồi
+cái-buồi
+cáibuồi
+caichim
+caichim
+cai_chim
+cai-chim
+cái chim
+cái-chim
+cái_chim
+cáichim
+caicu
+cai_cu
+cai-cu
+cáicu
+cáicu
+cái_cu
+cái-cu
+cailon
+cailon
+cai_lon
+cai-lon
+cái lồn
+cái-lồn
+cáilồn
+cái_lìn
+cái lìn
+cái-liền
+cáilìn
+cave
+chim
+chim_to
+chimto
+chó
+cứt
+chó
+chó-đẻ
+chó_đẻ
+nutbuoi
+nutchim
+nutlon
+nút_lôn
+nút_lồn
+má_mày
+má-mày
+mámày
+liếm
+liếm lồn
+liếm_lồn
+liếm-lồn
+liếmlồn
+liemlon
+liem_lon
+ban-hoa
+bánhoa
+bán_hoa
+bán-hoa
+bánhoa
+bitch
+bo_may
+bomay
+bomay
+bo-may
+bố mày
+bố-mày
+bố_mày
+bốmày
+bon_cho
+boncho
+bon-cho
+bọn chó
+bọn_chó
+bọn-chó
+bọnchó
+bọnkhốn
+bọnkhốn
+bọn_khốn
+bọn-khốn
+breast
+bucac
+bu_cac
+bu-cac
+bú cặc
+bú_cặc
+bú-cặc
+búcặc
+solon
+subomay
+bố      
+thang_cho
+thangcho
+thằngchó
+thằng_chó
+thằng chó
+thằng_chó
+thằng_chó
+sư
+su
+tien_su
+tiensu
+tiên_sư
+tiên_sư
+tiên_sư
+tiên_sư
+tinh_duc
+tinhduc
+tìnhdục
+tìnhdục
+tìnhdục
+tình_dục
+to_su
+tosu
+vãi
+tổ sư
+tổ_sư
+tổ_sư
+tổ_sư
+tổsư
+tổsư
+vai_dai
+vãiđái
+vãiđái
+vãi_đái
+vãi_đái
+vai_leu
+vaileu
+vãi lều
+vãi_lều
+vãi lều
+vãi_lều
+vai_lin
+vãi lìn
+vãi_lìn
+vãilìn
+vãilìn
+vãi_lìn
+vailin
+vãilìn
+vãilìn
+vai_lon
+vaidai
+vaileu
+vailin
+vailon
+chóđẻ
+chó
+chode
+cho_de
+chode
+cho-de
+cho_chet
+chochet
+cho-chet
+cho_kin
+cho kin
+chokin
+cho-kin
+chochet
+concho
+concho
+con-cho
+con_cho
+con_cu
+concu
+concu
+con-cu
+con_di
+condi
+con-di
+con di
+con đĩ
+con-đĩ
+con_đĩ
+conđĩ
+con_diem
+condiem
+con-diem
+condiem
+con điếm
+con_điếm
+con-điếm
+conđiếm
+concho
+con cho
+con_cho
+con-cho
+concu
+concucac
+condi
+condiem
+conlon
+conlon
+con_lồn
+con_lon
+liem-lon
+liemlon
+liemcac
+liemcac
+liem_cac
+liem-cac
+liếm cặc
+liếm-cặc
+liếm_cặc
+liếmcặc
+liemlin
+liem lin
+liem_lin
+liem-lin
+liếm lìn
+liếm_lìn
+liếm-lìn
+liếmlìn
+cucac
+cu_cac
+củ cặc
+củ_cặc
+củ-các
+cu_ho
+cu_may
+cu_to
+cuc_cac
+cuc_cut
+cucac
+củ cặc
+củ_cặc
+củ-cặc
+cuccac
+cuccut
+cuho
+cumay
+cunt
+cuong_dam
+cuongdam
+cuto
+đái
+cụ
+cu
+me
+mẹ
+ông
+bà
+ba
+dis
+dit
+địt
+ỉa
+dâm
+điếm
+dis_me
+disme
+dit_bo
+dit_cu
+dit_me
+dit_me
+dit_ong
+ditba
+ditbo
+ditme
+ditme
+ditmemay
+ditong
+doconcho
+dokhon
+drug
+cuho
+cumay
+cunt
+cuong_dam
+cuong_hiep
+cuongdam
+cuonghiep
+cuto
+họ
+thằng bố
+thang bo
+thằng_bố
+thằng-bố
+conmẹ
+con-mẹ
+conme
+con_mẹ
+duma
+du-ma
+du-me
+đụ má
+đĩ già
+đĩ_già
+đĩ-già
+đĩgià
+điếm già
+điếm_già
+điếmgià
+điếm-già
+điếm con
+điếm_con
+điếm-con
+điếmcon
+đĩcon
+đĩ-con
+đĩ_con
+đĩcon
+du_ma
+duma
+dume
+f_u_c_k
+fuck
+gai_diem
+gaibanhoa
+gaidiem
+ham_hiep
+hamhiep
+hanh_kinh
+hanhkinh
+hiếp
+hiep_dam
+hiepdam
+khon_nan
+khonnan
+khung_bo
+khungbo
+lam_tinh
+lamtinh
+liem_cac
+liemcac
+lon_to
+long_lon
+longlon
+lonto
+lu_cho
+lu_khon
+lucho
+lukhon
+mau_kinh
+mau_lon
+maukinh
+maulon
+me_kiep
+me_may
+mekiep
+memay
+mohamet
+mua_dam
+muadam
+mut_cac
+mutbuoi
+mutcac
+nake
+ong_may
+ongmay
+penis
+pimp
+rape
+s_h_i_t
+shit
+sinh_duc
+sinhduc
+slut
+so_lon
+ban-hOa
+bÁn hOa
+bÁn_hOa
+bÁn-hOa
+bÁnhOa
+bItch
+bO_maY
+bOmaY
+bO maY
+bO-maY
+bố mÀY
+bố-mÀY
+bố_mÀY
+bốmÀY
+ha noi
+bOn_chO
+bOn chO
+bOnchO
+bOn-chO
+bọnchÓ
+bọn_chÓ
+bọn-chÓ
+bọnchÓ
+bọnkhốn
+bọnkhốn
+bọn_khốn
+bọn-khốn
+bUcac
+bUcac
+bU_cac
+bU-cac
+bÚcặc
+bÚ_cặc
+bÚ-cặc
+bÚcặc
+sOlOn
+sUbOmaY
+thanGchO
+tIEn_sU
+tIEnsU
+tInh_dUc
+tInhdUc
+tO_sU
+tOsU
+v_cOnG
+vaI_daI
+vaI_lEU
+vaI_lIn
+vaI_lOn
+vaIdaI
+vaIlEU
+vaIlIn
+vaIlOn
+vcOnG
+dadaO
+da_daO
+da-daO
+ancac
+ankU
+ănkU
+ăn_kU
+ăn-kU
+an-kU
+an_kU
+ancU
+an_cU
+an-cU
+ăncU
+ăn_cU
+ăn-cU
+anlOn
+anlOn
+an_lOn
+an-lOn
+ănlồn
+ăn lồn
+ăn-lồn
+ăn_lồn
+ba_maY
+bamaY
+bamaY
+ba-maY
+ba_mÀY
+ba mÀY
+bamÀY
+bac_hO
+bandam
+ban_dam
+ban-dam
+ban dam
+ban_hOa
+banhOa
+bUOI
+bUOm
+bƯỚm
+caI_bUOI
+caI bUOI
+caI-bUOI
+caIbUOI
+cÁI bUồI
+cÁI_bUồI
+cÁI-bUồI
+cÁIbUồI
+caI_chIm
+caI chIm
+caIchIm
+cÁI chIm
+cÁI-chIm
+cÁI_chIm
+cÁIchIm
+caI-chIm
+caI_cU
+caI cU
+caIcU
+caI-cU
+cÁIcU
+cÁI_cU
+cÁI-cU
+cÁIcU
+caI_lOn
+caI lOn
+caI-lOn
+caIlOn
+cÁI lồn
+cÁI_lồn
+cÁI-lồn
+cÁIlồn
+caIbUOI
+caI_bUOI
+caI-bUOI
+caIbUOI
+cÁIbUồI
+cÁI_bUồI
+cÁI-bUồI
+cÁIbUồI
+caIchIm
+caIchIm
+caI_chIm
+caI-chIm
+cÁI chIm
+cÁI-chIm
+cÁI_chIm
+cÁIchIm
+caIcU
+caIcU
+caI_cU
+caI-cU
+cÁIcU
+cÁI cU
+cÁI_cU
+cÁI-cU
+caIlOn
+caIlOn
+caI_lOn
+caI-lOn
+cÁI lồn
+cÁI-lồn
+cÁIlồn
+cÁI_lÌn
+cÁI lÌn
+cÁI-lIền
+cÁIlÌn
+cavE
+chIm
+chIm_tO
+chImtO
+chÓđẻ
+chÓ-đẻ
+chÓ_đẻ
+conđiếm
+con_điếm
+con diem
+nUtbUOI
+nUtchIm
+nUtlOn
+nÚt_lÔn
+nÚt_lồn
+mÁ mÀY
+mÁ_mÀY
+mÁ-mÀY
+mÁmÀY
+lIếm
+lIếmlồn
+lIếm_lồn
+lIếm-lồn
+lIếmlồn
+lIEm lOn
+lIEm_lOn
+chÓđẻ
+chOdE
+chO_dE
+chOdE
+chO-dE
+chO_chEt
+chO chEt
+chO-chEt
+chO_kIn
+chO kIn
+chOkIn
+chO-kIn
+chOchEt
+cOnchO
+cOnchO
+cOn-chO
+cOn_chO
+cOn_cU
+cOncU
+cOncU
+cOn-cU
+cOn_dI
+cOndI
+cOn-dI
+cOn dI
+cOn đĨ
+cOn-đĨ
+cOn_đĨ
+cOnđĨ
+cOn_dIEm
+cOn dIEm
+cOn-dIEm
+cOndIEm
+cOnđIếm
+cOn_đIếm
+cOn-đIếm
+cOnđIếm
+cOn_PhO
+cOnPhO
+cOnPhO
+cOn-PhO
+cOn PhÒ
+cOn_PhÒ
+cOn-PhÒ
+cOnPhÒ
+cOnchO
+cOnchO
+cOn_chO
+cOn-chO
+cOncU
+cOncUcac
+cOndI
+cOndIEm
+cOnlOn
+cOnlOn
+cOn_lồn
+cOn_lOn
+cOnPhO
+csan
+lIEm-lOn
+lIEmlOn
+lIEmcac
+lIEmcac
+lIEm_cac
+lIEm-cac
+lIếmcặc
+lIếm-cặc
+lIếm_cặc
+lIếmcặc
+lIEmlIn
+lIEmlIn
+lIEm_lIn
+lIEm-lIn
+lIếmlÌn
+lIếm_lÌn
+lIếm-lÌn
+lIếmlÌn
+mÚt
+cUcac
+cU_cac
+củcặc
+củ_cặc
+củ-cÁc
+cU_hO
+cU_maY
+cU_tO
+cUc_cac
+cUc_cUt
+cUcac
+củcặc
+củ_cặc
+củ-cặc
+cUccac
+cUccUt
+cUhO
+cUmaY
+cUnt
+cUOnGdam
+cỨt
+cUtO
+đáI
+dÂm
+dan_chU
+danchU
+danG_c_s
+danG_cs
+danGcs
+đIẾm
+dIs_mE
+dIsmE
+dIt_bO
+dIt_cU
+dIt_mE
+dIt_mE
+dIt_OnG
+dItba
+dItbO
+dItmE
+dItmE
+dItmEmaY
+dItOnG
+dOcOnchO
+dOkhOn
+dog
+dRUG
+cUhO
+cUmaY
+cUnt
+cUOnGdam
+cUtO
+khỉhọ
+khỉhọ
+thằnGbố
+thanGbO
+thằnG_bố
+thằnG-bố
+cOnmẹ
+cOn-mẹ
+cOnmE
+cOn_mẹ
+WhORE
+WhOREs
+dUma
+dU-ma
+dU-mE
+đụmÁ
+đĨ GIÀ
+đĨ_GIÀ
+đĨ-GIÀ
+đĨGIÀ
+đIếmGIÀ
+đIếm_GIÀ
+đIếmGIÀ
+đIếm-GIÀ
+đIếmcOn
+đIếm_cOn
+đIếm-cOn
+đIếmcOn
+đĨcOn
+đĨ-cOn
+đĨ_cOn
+đĨcOn
+dcm
+dkm
+djs
+DKM
+clgt
+dan_chU
+danchU
+danG_c_s
+danG_cs
+danGcs
+dU_ma
+dUma
+dUmE
+F_U_c_k
+FUck
+GaI_dIEm
+GaIdIEm
+ham_hIEP
+hamhIEP
+hanhkInh
+hiếp
+hiep
+hIEP_dam
+hIEPdam
+hOchImInh
+khỐn
+khOn_nan
+khOnnan
+khUnG_bO
+khUnGbO
+kIEP
+kIÉP
+kIẾP
+lam_tInh
+lamtInh
+lIEm_cac
+lIEmcac
+lOn_tO
+lOnG_lOn
+lOnGlOn
+lOntO
+lU_chO
+lU_khOn
+lUchO
+lUkhOn
+maU_kInh
+maU_lOn
+maUkInh
+maUlOn
+mE_kIEP
+mE_maY
+mEkIEP
+mEmaY
+mOhamEt
+mUa_dam
+mUadam
+mUt_cac
+mUtbUOI
+mUtcac
+nakE
+OnG_maY
+OnGmaY
+PEnIs
+PhÒ
+PImP
+RaPE
+s_h_I_t
+shIt
+sInh_dUc
+sInhdUc
+slUt
+sO_lOn
+thằngngu
+đồ ngu
+Shit
+Sh!t
+đả đảo
+da dao
+cỤ hỒ
+cong
+vici
+chim
+fuck
+buom
+xuat tinh
+xuattinh
+xuấttinh
+phátrinh
+phatrinh
+phatrinh
+Phatrinh
+mattrinh
+mấttrinh
+mattrinh
+conphò
+conpho
+doggy
+fucker
+súc vật
+đù má
+nude
+bà mẹ
+nhin lon
+TƯSẢN
+tư ản
+tusan
+TUSAN
+hentai
+đéomẹ
+deome
+liếm
+VNG
+vng
+Vinagame
+vinagame
+Vng
+VNg
+VnG
+hochiminh
+nguyenaiquoc
+	</wrongText>
+	
+</Languages>

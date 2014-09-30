@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Languages>
+	<version value = "zing" xmlVer="1" loginurl = "http://passport.me.zing.vn/login/" language="vi" />
+	<language name="vn">
+		<!-- Ô chiến thần: Nhiệm vụ ngư chiến -->
+		<Task id="TaskWar1">Tấn công nhà bạn</Task>
+		<Task id="TaskWar2">Cường Hóa Trang Bị bất kỳ lên +1</Task>
+		<Task id="TaskWar3">Cường Hóa Trang Bị bất kỳ lên +2</Task>
+		<Task id="TaskWar4">Cường Hóa Trang Bị bất kỳ lên +3</Task>
+		<Task id="TaskWar5">Cường Hóa Trang Bị bất kỳ lên +4</Task>
+		<Task id="TaskWar6">Cường Hóa Trang Bị bất kỳ lên +5</Task>
+		<Task id="TaskWar7">Cường Hóa Trang Bị bất kỳ lên +6</Task>
+		<Task id="TaskWar8">Cường Hóa Trang Bị bất kỳ lên +7</Task>
+		<Task id="TaskWar9">Cường Hóa Trang Bị bất kỳ lên +8</Task>
+		<Task id="TaskWar10">Cường Hóa Trang Bị bất kỳ lên +9</Task>
+		<Task id="TaskWar11">Luyện Đan Cấp 1</Task>
+		<Task id="TaskWar12">Luyện Đan Cấp 2</Task>
+		<Task id="TaskWar13">Luyện Đan Cấp 3</Task>
+		<Task id="TaskWar14">Luyện Đan Cấp 4</Task>
+		<Task id="TaskWar15">Luyện Đan Cấp 5</Task>
+		<Task id="TaskWar16">Luyện Đan Cấp 6</Task>
+		<Task id="TaskWar17">Luyện Đan Cấp 7</Task>
+		<Task id="TaskWar18">Luyện Đan Cấp 8</Task>
+		<Task id="TaskWar19">Luyện Đan Cấp 9</Task>
+		<Task id="TaskWar20">Luyện Đan Cấp 10</Task>
+		<Task id="TaskWar21">Luyện Đan Cấp 11</Task>
+		<Task id="TaskWar22">Luyện Đan Cấp 12</Task>
+		<Task id="TaskWar23">Luyện Đan Cấp 13</Task>
+		<Task id="TaskWar24">Luyện Đan Cấp 14</Task>
+		<Task id="TaskWar25">Luyện Đan Cấp 15</Task>
+		<Task id="TaskWar26">Tách Trang Bị</Task>
+		<Task id="TaskWar27">Chế tạo trang bị thường cấp 1</Task>
+		<Task id="TaskWar28">Chế tạo trang bị đặc biệt cấp 1</Task>
+		<Task id="TaskWar29">Chế tạo trang bị quý cấp 1</Task>
+		<Task id="TaskWar30">Chế tạo trang bị thần cấp 1</Task>
+		<Task id="TaskWar31">Chế tạo trang bị thường cấp 2</Task>
+		<Task id="TaskWar32">Chế tạo trang bị đặc biệt cấp 2</Task>
+		<Task id="TaskWar33">Chế tạo trang bị quý cấp 2</Task>
+		<Task id="TaskWar34">Chế tạo trang bị thần cấp 2</Task>
+		<Task id="TaskWar35">Tu Luyện Ngư Thủ cường độ thong thả</Task>
+		<Task id="TaskWar36">Tu Luyện Ngư Thủ cường độ thường</Task>
+		<Task id="TaskWar37">Tu Luyện Ngư Thủ cường độ chăm chỉ</Task>
+		<Task id="TaskWar38">Tu Luyện Ngư Thủ cường độ khắc nghiệt</Task>
+		<Task id="TaskWar39">Tu Luyện Ngư Thủ 30 phút</Task>
+		<Task id="TaskWar40">Tu Luyện Ngư Thủ 1 tiếng</Task>
+		<Task id="TaskWar41">Tu Luyện Ngư Thủ 4 tiếng</Task>
+		<Task id="TaskWar42">Tu Luyện Ngư Thủ 8 tiếng</Task>
+		<Task id="TaskWar43">Đả thông Ngư Mạch bất kỳ</Task>
+		<Task id="TaskWar44">Tấn công nhà bạn bè kiếm tem Kim</Task>
+		<Task id="TaskWar45">Tấn công nhà bạn bè kiếm tem Mộc</Task>
+		<Task id="TaskWar46">Tấn công nhà bạn bè kiếm tem Thổ</Task>
+		<Task id="TaskWar47">Tấn công nhà bạn bè kiếm tem Thủy</Task>
+		<Task id="TaskWar48">Tấn công nhà bạn bè kiếm tem Hỏa</Task>
+		
+		<!-- Nhiệm vụ Nuôi cá -->
+		<Task id="TaskFish1">Tặng quà cho bạn bè</Task>
+		<Task id="TaskFish2">Chụp ảnh nhà mình</Task>
+		<Task id="TaskFish3">Viết thư cho bạn bè</Task>
+		<Task id="TaskFish4">Đổi bộ sưu tập Vũ Khí Quí cấp 1</Task>
+		<Task id="TaskFish5">Đổi bộ sưu tập Vũ Khí Thần cấp 1</Task>
+		<Task id="TaskFish6">Đổi bộ sưu tập Vũ Khí Thần cấp 2</Task>
+		<Task id="TaskFish7">Đổi bộ sưu tập Áo Giáp Quí cấp 1</Task>
+		<Task id="TaskFish8">Đổi bộ sưu tập Áo GiápThần cấp 1</Task>
+		<Task id="TaskFish9">Đổi bộ sưu tập Áo Giáp Thần cấp 2</Task>
+		<Task id="TaskFish10">Đổi bộ sưu tập Mũ Giáp Quí cấp 1</Task>
+		<Task id="TaskFish11">Đổi bộ sưu tập Mũ Giáp Thần cấp 1</Task>
+		<Task id="TaskFish12">Đổi bộ sưu tập Mũ Giáp Thần cấp 2</Task>
+		<Task id="TaskFish13">Đổi bộ sưu tập Trang Sức đặc biệt cấp 1</Task>
+		<Task id="TaskFish14">Đổi bộ sưu tập Trang Sức quí cấp 1</Task>
+		<Task id="TaskFish15">Đổi bộ sưu tập Trang Sức thần cấp 1</Task>
+		<Task id="TaskFish16">Đổi bộ sưu tập Trang Sức đặc biệt cấp 2</Task>
+		<Task id="TaskFish17">Đổi bộ sưu tập Trang Sức quí cấp 2</Task>
+		<Task id="TaskFish18">Đổi bộ sưu tập Trang Sức đặc biệt cấp 2</Task>
+		<Task id="TaskFish19">Chăm sóc cá bạn bè</Task>
+		<Task id="TaskFish20">Cho cá bạn bè ăn</Task>
+		<Task id="TaskFish21">Lau bể cá nhà bạn bè</Task>
+		<Task id="TaskFish22">Lau bể cá nhà mình</Task>
+		<Task id="TaskFish23">Bán cá</Task>
+		<Task id="TaskFish24">Mua cá</Task>
+		<Task id="TaskFish25">Sử dụng năng lượng</Task>
+		<Task id="TaskFish26">Kiếm tiền</Task>
+		<Task id="TaskFish27">Thăm nhà bạn bè</Task>
+		<Task id="TaskFish28">Câu cá tại nhà bạn bè</Task>
+		<Task id="TaskFish29">Câu được Ấm Nước tại nhà bạn bè</Task>
+		<Task id="TaskFish30">Câu được Vỏ Lon tại nhà bạn bè</Task>
+		<Task id="TaskFish31">Câu được Xương Cá tại nhà bạn bè</Task>
+		<Task id="TaskFish32">Câu được Giầy Cũ tại nhà bạn bè</Task>
+		<Task id="TaskFish33">Câu được Đồ Cổ tại nhà bạn bè</Task>
+		<Task id="TaskFish34">Ghép Ngư Thạch Cấp 2</Task>
+		<Task id="TaskFish35">Ghép Ngư Thạch Cấp 3</Task>
+		<Task id="TaskFish36">Ghép Ngư Thạch Cấp 4</Task>
+		<Task id="TaskFish37">Ghép Ngư Thạch Cấp 5</Task>
+		<Task id="TaskFish38">Ghép Ngư Thạch Cấp 6</Task>
+		<Task id="TaskFish39">Ghép Ngư Thạch Cấp 7</Task>
+		<Task id="TaskFish40">Ghép Ngư Thạch Cấp 8</Task>
+		<Task id="TaskFish41">Ghép Ngư Thạch Cấp 9</Task>
+		<Task id="TaskFish42">Ghép Ngư Thạch Cấp 10</Task>
+		
+		<!-- Nhiệm vụ Thế giới cá -->
+		<Task id="TaskWorld1">Chiến thắng Vòng 1 Biển Hoang Sơ</Task>
+		<Task id="TaskWorld2">Chiến thắng Vòng 2 Biển Hoang Sơ</Task>
+		<Task id="TaskWorld3">Chiến thắng Vòng 3 Biển Hoang Sơ</Task>
+		<Task id="TaskWorld4">Chiến thắng Boss Tua Rua</Task>
+		<Task id="TaskWorld5">Chiến thắng Vòng 1 Biển Hoàng Kim</Task>
+		<Task id="TaskWorld6">Chiến thắng Vòng 2 Biển Hoàng Kim</Task>
+		<Task id="TaskWorld7">Chiến thắng Vòng 3 Biển Hoàng Kim</Task>
+		<Task id="TaskWorld8">Chiến thắng Boss Hoàng Kim</Task>
+		<Task id="TaskWorld9">Chiến thắng Vòng 1 Biển Băng</Task>
+		<Task id="TaskWorld10">Chiến thắng Vòng 2 Biển Băng</Task>
+		<Task id="TaskWorld11">Chiến thắng Vòng 3 Biển Băng</Task>
+		<Task id="TaskWorld12">Chiến thắng Boss Pipi trong Biển Băng</Task>
+		<Task id="TaskWorld13">Chiến thắng 1 đầu Boss Biển Băng</Task>
+		<Task id="TaskWorld14">Chiến thắng 2 đầu Boss Biển Băng</Task>
+		<Task id="TaskWorld15">Chiến thắng 3 đầu Boss Biển Băng</Task>
+		<Task id="TaskWorld16">Chiến thắng 4 đầu Boss Biển Băng</Task>
+		<Task id="TaskWorld17">Chiến thắng 5 đầu Boss Biển Băng</Task>
+		<Task id="TaskWorld18">Nhận được Mảnh Ghép Đỏ trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld19">Nhận được Mảnh Ghép Xanh trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld20">Nhận được Mảnh Ghép Vàng trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld21">Chiến thắng Thằn Lằn Xanh trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld22">Chiến thắng Thằn Lằn Đỏ trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld23">Chiến thắng Rắn Thường trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld24">Chiến thắng Rắn Chúa trong biển Hắc Lâm</Task>
+		<Task id="TaskWorld25">Đổi bộ sưu tập Trang sức cấp 1 đặc biệt</Task>
+		<Task id="TaskWorld26">Đổi bộ sưu tập Trang sức cấp 1 quí hiếm</Task>
+		<Task id="TaskWorld27">Đổi bộ sưu tập Trang sức cấp 1 Thần</Task>
+		<Task id="TaskWorld28">Đổi bộ sưu tập Trang sức cấp 2 đặc biệt</Task>
+		<Task id="TaskWorld29">Đổi bộ sưu tập Trang sức cấp 2 quí hiếm</Task>
+		<Task id="TaskWorld30">Đổi bộ sưu tập Trang sức cấp 2 thần</Task>
+		
+		<!-- tip Viễn chinh -->
+		<String id="TipNumDice">Còn @Num@ lần</String>
+		<String id="TipFinishHeader">Chúc mừng</String>
+		<String id="TipFinishContent">Bạn đã hoàn thành con đường Viễn Chinh\nngày hôm nay! Hãy quay lại để tiếp tục Viễn\nChinh vào ngày mai nhé</String>
+		<String id="TipTrunk1">Bạn đã mở thành công:</String>
+		<String id="TipTrunk2">Rương Viễn Chinh - @Type@</String>
+		<String id="TipExpedition0">Bắt Đầu Viễn Chinh</String>
+		<String id="TipExpedition1">Nhiệm vụ Chiến Thần</String>
+		<String id="TipExpedition2">Nhiệm vụ Ngư Thần</String>
+		<String id="TipExpedition3">Nhiệm vụ Giới Thần</String>
+		<String id="TipExpedition4">Ô Khí Vận</String>
+		<String id="TipExpedition10">Rương Viễn Chinh</String>
+		<String id="TipExpedition100">Rương Viễn Chinh</String>
+	</language>
+	<language name="cn">
+		<!-- Ô chiến thần: Nhiệm vụ ngư chiến -->
+		<Task id="TaskWar1">Hảo sư cù</Task>
+		
+		<!-- Nhiệm vụ Nuôi cá -->
+		<Task id="TaskFish1">Ăn 1 bát Mỳ Hảo hảo</Task>
+		
+		<!-- Nhiệm vụ Thế giới cá -->
+		<Task id="TaskWorld1">Giờ suy tà úy</Task>
+
+	</language>
+</Languages>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Languages>
+	<version value = "zing" xmlVer="1" loginurl = "http://passport.me.zing.vn/login/" language="vi" />
+	<language name="vn">
+		<String id="Title">Nội dung luật chơi</String>
+		
+		<String id="Header1">Giới thiệu</String>
+		<String id="Paragraph1_1">Liên đấu là chức năng đánh giá sức mạnh Ngư thủ của bạn so với những Ngư thủ khác cùng chơi myFish thông qua bảng xếp hạng</String>
+		<String id="Paragraph1_2">Mỗi ngày người chơi sẽ được tặng miễn phí @Num Ngư lệnh để tham gia cạnh tranh các vị trí trên bảng xếp hạng</String>
+		<String id="Paragraph1_3">Người chơi có thể chiến đấu với bất kỳ đối thủ nào mà mình nhìn thấy trên bảng xếp hạng</String>
+		
+		<String id="Header2">Cách thức thi đấu</String>
+		<String id="Paragraph2_1">Người chơi sẽ nhìn thấy danh sách 7 người có thứ hạng gần mình nhất hiển thị</String>
+		<String id="Image2_1">GuiLeagueGuide_TableRank</String>
+		<String id="Paragraph2_2">Chỉ cần click vào tên người đó để tấn công</String>
+		<String id="Paragraph2_3">Mỗi lượt chiến đấu sẽ tốn 1 ngư lệnh bất kể thắng thua</String>
+		<String id="Paragraph2_4">Lưu ý: Trong trường hợp không sử dụng hết thì hệ thống sẽ tự động trừ đi số không sử dụng và tăng @Num ngư lệnh mới</String>
+		<String id="Paragraph2_5">Nếu thắng thì người chơi sẽ chiếm được vị trí của người thua cuộc</String>
+		<String id="Paragraph2_6">Nếu thua thì người chơi giữ nguyên vị trí của mình</String>
+		<String id="Paragraph2_7">Nếu có người chơi chen vào thứ hạng cao hơn thì những người chơi có thứ hạng bên dưới sẽ bị dồn xuống</String>
+		<String id="Paragraph2_8">Hệ thống sẽ chốt vị trí xếp hạng lúc 10:00 hàng ngày và trao thưởng cho các cao thủ trong top 1,000</String>
+		
+		<String id="Header3">Thứ hạng Liên Đấu và Phần Thưởng</String>
+		<String id="Paragraph3_1">Lưu ý: Phần thưởng sẽ tồn tại trong vòng 7 ngày (tính từ ngày chốt giải thưởng)</String>
+		<String id="Paragraph3_2">Thứ hạng càng cao thì phần thưởng nhận được càng xịn</String>
+		<String id="Paragraph3_1_1">Thứ hạng từ 301 - 1000: Phần thưởng Top 1000</String>
+		<String id="Image3_1">GuiLeague_TrunkTop1000</String>
+		<String id="Paragraph3_1_2">Thứ hạng từ 101 - 300: Phần thưởng Top 300</String>
+		<String id="Image3_2">GuiLeague_TrunkTop300</String>
+		<String id="Paragraph3_1_3">Thứ hạng từ 51 - 100: Phần thưởng Top 100</String>
+		<String id="Image3_3">GuiLeague_TrunkTop100</String>
+		<String id="Paragraph3_1_4">Thứ hạng từ 21 - 50: Phần thưởng Top 50</String>
+		<String id="Image3_4">GuiLeague_TrunkTop50</String>
+		<String id="Paragraph3_1_5">Thứ hạng từ 11 - 20: Phần thưởng Top 20</String>
+		<String id="Image3_5">GuiLeague_TrunkTop20</String>
+		<String id="Paragraph3_1_6">Thứ hạng từ 6 - 10: Phần thưởng Top 10</String>
+		<String id="Image3_6">GuiLeague_TrunkTop10</String>
+		<String id="Paragraph3_1_7">Thứ hạng từ 2 - 5: Phần thưởng Top 5</String>
+		<String id="Image3_7">GuiLeague_TrunkTop5</String>
+		<String id="Paragraph3_1_8">Thứ hạng 1: Phần thưởng Vô Địch</String>
+		<String id="Image3_8">GuiLeague_TrunkTop1</String>
+	</language>
+	<language name="cn">
+	</language>
+</Languages>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<postUrl url = "http://fish.zing.vn/amf/gateway.php" fbRequest = "" />
+	<version value = "zing" xmlVer="1" loginurl = "http://passport.me.zing.vn/login/" language="vi" />
+	<security host="127.0.0.1" port="3333" />
+
+    <helperList>
+		<helper1>Shop</helper1>
+		<helper2>ShopDeco</helper2>
+		<helper3>ShopDecoOther</helper3>
+		<helper4>ShopBack</helper4>
+		<helper5>ShopNext</helper5>
+		<helper6>CureFishTool</helper6>
+		<helper7>FeedFishTool</helper7>
+		<helper8>SellFishTool</helper8>
+		<helper9>ShopFish</helper9>
+		<helper10>BuyFish</helper10>
+		<helper11>ShopDecoOceanTree</helper11>
+		<helper12>MixTool</helper12>		
+		<helper13>MoneySkill</helper13>
+		<helper14>LevelSkill</helper14>
+		<helper15>SpecialSkill</helper15>
+		<helper16>RareSkill</helper16>
+		<helper17>InventoryTool</helper17>
+		<helper18>BabyFishSoldier</helper18>		
+		<helper19>VisitFriend</helper19>
+		<helper20>FishWarMode</helper20>
+		<helper21>attackFriendLake</helper21>
+		<helper22>InventorySoldier</helper22>
+		<helper23>InventorySpecial</helper23>
+		<helper24>SupportTab</helper24>
+		<helper25>RawTool</helper25>
+		<helper26>InventoryMaterial</helper26>
+	</helperList>
+	
+	<tutorial>
+		<tut1>helper6</tut1>
+		<tut2>helper7</tut2>
+		<tut3>helper8</tut3>
+		<tut4>helper1/helper9</tut4>
+		<tut5>helper12</tut5>		
+		<tut6>helper17/helper23</tut6>				
+		<tut7>helper17/helper18</tut7>
+		<tut8>helper19/helper20/helper21</tut8>
+		<tut9>helper17/helper24</tut9>
+		<tut10>helper17/helper26</tut10>
+	</tutorial>
+
+
+	<dataUrlMD5 url = "/contents/"/>
+	<dataUrl url = "/content/"/>
+	<baseContent size = "2172" Num = "2">
+		<name1>PreLoadingContent</name1>
+		<name2>EventHalloween</name2><!--Thạch bảo đồ-->
+	<!--<name2>EventTreasureIsland</name2>--><!--Đảo giấu vàng-->
+	<!--<name2>EventHoaMuaXuan</name2>--><!--Mê cung đá-->
+	</baseContent>
+	<baseContentMD5 name ="BaseContent" size = "2048" />
+    <bgMusic name="sound/bgMusic.mp3"/>
+	<bgMusicWar name="sound/bgMusicWar.mp3"/>
+	<soundList url = "">
+		<data url="sound/" size = "2048" >
+			<sound id="BanCa"/>
+			<sound id="CauCaThatBai"/>
+			<sound id="CauDuocCa"/>
+			<sound id="ChamSocCa"/>
+			<sound id="ChoCaAn"/>
+			<sound id="ChuaBenhCa"/>
+			<sound id="Click"/>
+			<sound id="DongMoBang"/>
+			<sound id="GiatCanCaulen"/>
+			<sound id="KhongTrungSo"/>
+			<sound id="LaiCaThanhCong"/>
+			<sound id="LaiCaThatBai"/>
+			<sound id="Laube"/>
+			<sound id="MuaCa"/>
+			<sound id="QuaySo"/>
+			<sound id="TrungSo"/>
+			<sound id="VungCanCau"/>
+			<sound id="FightNormal"/>
+			<sound id="Fight1"/>
+			<sound id="Fight2"/>
+			<sound id="Fight3"/>
+			<sound id="Fight4"/>
+			<sound id="Fight5"/>
+			<sound id="MayQuaySo"/>
+			<sound id="DungMoiSlot"/>
+		</data>
+	</soundList>
+
+	<GeneralInfo>
+		<Fish>
+			<Terms>4</Terms>
+			<MaxFood>4</MaxFood>
+		</Fish>
+
+		<Food>
+			<AffectTime>7200</AffectTime>
+		</Food>
+
+	</GeneralInfo>
+</main>

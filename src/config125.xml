@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<main>
+	<IniVer>1</IniVer>
+	<LocalizationVer>1</LocalizationVer>
+	<QuestVer>1</QuestVer>
+	
+	<FishList>
+		<Fish1>
+			<Level1>
+				<fin A = "0" R = "-38" G = "35" B = "-51"/>
+				<body A = "0" R = "-29" G = "38" B = "54"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "48" G = "-48" B = "3"/>
+				<body A = "0" R = "0" G = "35" B = "48"/>
+			</Level2>
+		</Fish1>
+		<Fish2>
+			<Level1>
+				<fin A = "0" R = "44" G = "-117" B = "92"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "60" G = "-117" B = "-16"/>
+			</Level2>
+		</Fish2>
+		<Fish3>
+			<Level1>
+				<fin A = "0" R = "124" G = "-4" B = "-35"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-146" G = "-16" B = "156"/>
+			</Level2>
+		</Fish3>
+		<Fish4>
+			<Level1>
+				<fin A = "0" R = "-111" G = "22" B = "-63"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-124" G = "16" B = "95"/>
+			</Level2>
+		</Fish4>
+		<Fish5>
+			<Level1>
+				<body A = "0" R = "89" G = "6" B = "-6"/>
+				<fin A = "0" R = "-133" G = "16" B = "-200"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "124" G = "-140" B = "-32"/>
+				<body A = "0" R = "57" G = "35" B = "73"/>
+			</Level2>
+		</Fish5>
+		<Fish6>
+			<Level1>
+				<fin A = "0" R = "-190" G = "-60" B = "63"/>
+				<body A = "0" R = "-124" G = "6" B = "79"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "10" G = "-35" B = "22"/>
+				<fin A = "0" R = "22" G = "-95" B = "25"/>
+			</Level2>
+		</Fish6>
+		<Fish7>
+			<Level1>
+				<body A = "0" R = "-13" G = "-29" B = "92"/>
+				<fin A = "0" R = "-79" G = "35" B = "-22"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "102" G = "-41" B = "86"/>
+				<body A = "0" R = "-105" G = "-29" B = "114"/>
+			</Level2>
+		</Fish7>
+		<Fish8>
+			<Level1>
+				<body A = "0" R = "-38" G = "3" B = "-60"/>
+				<fin A = "0" R = "-89" G = "19" B = "29"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "25" G = "-86" B = "-30"/>
+				<fin A = "0" R = "38" G = "102" B = "84"/>
+			</Level2>
+		</Fish8>
+		<Fish9>
+			<Level1>
+				<body A = "0" R = "-200" G = "-29" B = "108"/>
+				<fin A = "0" R = "-200" G = "44" B = "140"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-200" G = "22" B = "-81"/>
+				<body A = "0" R = "51" G = "-83" B = "62"/>
+			</Level2>
+		</Fish9>
+		<Fish10>
+			<Level1>
+				<fin A = "0" R = "-149" G = "-79" B = "121"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-48" G = "-137" B = "92"/>
+			</Level2>
+		</Fish10>
+		<Fish11>
+			<Level1>
+				<fin A = "0" R = "13" G = "-143" B = "0"/>
+				<body A = "0" R = "-73" G = "-22" B = "76"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-79" G = "-29" B = "79"/>
+				<fin A = "0" R = "-137" G = "-16" B = "-73"/>
+			</Level2>
+		</Fish11>
+		<Fish12>
+			<Level1>
+				<fin A = "0" R = "25" G = "-98" B = "121"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-200" G = "-13" B = "-114"/>
+			</Level2>
+		</Fish12>
+		<Fish13>
+			<Level1>
+				<fin A = "0" R = "-184" G = "35" B = "13"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-114" G = "-13" B = "156"/>
+			</Level2>
+		</Fish13>
+		<Fish14>
+			<Level1>
+				<fin A = "0" R = "-117" G = "-3" B = "32"/>
+				<body A = "0" R = "-121" G = "3" B = "-13"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-13" G = "-83" B = "-51"/>
+				<body A = "0" R = "-13" G = "-83" B = "-51"/>
+			</Level2>
+		</Fish14>
+		<Fish15>
+			<Level1>
+				<body A = "0" R = "-54" G = "44" B = "-44"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-54" G = "-133" B = "83"/>
+				<body A = "0" R = "0" G = "48" B = "48"/>
+			</Level2>
+		</Fish15>
+		<Fish16>
+			<Level1>
+				<fin A = "0" R = "-143" G = "51" B = "149"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-63" G = "60" B = "-57"/>
+			</Level2>
+		</Fish16>
+		<Fish17>
+			<Level1>
+				<fin A = "0" R = "-60" G = "-76" B = "114"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-149" G = "-22" B = "152"/>
+			</Level2>
+		</Fish17>
+		<Fish18>
+			<Level1>
+				<body A = "0" R = "19" G = "13" B = "-73"/>
+				<fin A = "0" R = "19" G = "41" B = "-57"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-76" G = "32" B = "57"/>
+				<fin A = "0" R = "6" G = "-38" B = "48"/>
+			</Level2>
+		</Fish18>
+		<Fish19>
+			<Level1>
+				<body A = "0" R = "-57" G = "6" B = "146"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "165" G = "76" B = "35"/>
+				<fin A = "0" R = "102" G = "6" B = "-67"/>
+			</Level2>
+		</Fish19>
+		<Fish20>
+			<Level1>
+				<fin A = "0" R = "-10" G = "25" B = "-73"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-83" G = "22" B = "-16"/>
+				<body A = "0" R = "-35" G = "-3" B = "105"/>
+			</Level2>
+		</Fish20>
+		<Fish21>
+			<Level1>
+				<fin A = "0" R = "-127" G = "-41" B = "79"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-124" G = "-35" B = "19"/>
+			</Level2>
+		</Fish21>
+		<Fish22>
+			<Level1>
+				<body A = "0" R = "0" G = "0" B = "0"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-79" G = "-19" B = "-83"/>
+			</Level2>
+		</Fish22>
+		<Fish23>
+			<Level1>
+				<fin A = "0" R = "-13" G = "-60" B = "89"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-6" G = "-32" B = "70"/>
+				<fin A = "0" R = "-3" G = "22" B = "-67"/>
+			</Level2>
+		</Fish23>
+		<Fish24>
+			<Level1>
+				<body A = "0" R = "0" G = "0" B = "0"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-44" G = "-29" B = "73"/>
+				<fin A = "0" R = "-22" G = "-95" B = "73"/>
+			</Level2>
+		</Fish24>
+		<Fish25>
+			<Level1>
+				<fin A = "0" R = "63" G = "-23" B = "79"/>
+				<body A = "0" R = "0" G = "6" B = "54"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-57" G = "-13" B = "111"/>
+			</Level2>
+		</Fish25>
+		<Fish26>
+			<Level1>
+				<body A = "0" R = "0" G = "0" B = "0"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "95" G = "-105" B = "200"/>
+			</Level2>
+		</Fish26>
+		<Fish27>
+			<Level1>
+				<fin A = "0" R = "-38" G = "-76" B = "70"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-143" G = "-44" B = "44"/>
+			</Level2>
+		</Fish27>
+		<Fish28>
+			<Level1>
+				<fin A = "0" R = "-67" G = "47" B = "156"/>
+				</Level1>
+			<Level2>
+				<fin A = "0" R = "-22" G = "25" B = "-86"/>
+			</Level2>
+		</Fish28>
+		<Fish29>
+			<Level1>
+				<fin A = "0" R = "-6" G = "-79" B = "48"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-200" G = "3" B = "86"/>
+			</Level2>
+		</Fish29>
+		<Fish30>
+			<Level1>
+				<body A = "0" R = "-10" G = "-54" B = "63"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-73" G = "-10" B = "121"/>
+			</Level2>
+		</Fish30>
+		<Fish31>
+			<Level1>
+				<fin A = "0" R = "-13" G = "-41" B = "3"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "-29" G = "10" B = "41"/>
+			</Level2>
+		</Fish31>
+		<Fish32>
+			<Level1>
+				<fin A = "0" R = "-57" G = "29" B = "-79"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-114" G = "10" B = "133"/>
+			</Level2>
+		</Fish32>
+		<Fish33>
+			<Level1>
+				<fin A = "0" R = "152" G = "6" B = "133"/>
+				<body A = "0" R = "152" G = "6" B = "133"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-19" G = "22" B = "143"/>
+				<body A = "0" R = "-19" G = "22" B = "143"/>
+			</Level2>
+		</Fish33>
+		<Fish34>
+			<Level1>
+				<fin A = "0" R = "0" G = "-149" B = "108"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-86" G = "149" B = "-92"/>
+			</Level2>
+		</Fish34>
+		<Fish35>
+			<Level1>
+				<body A = "0" R = "98" G = "-25" B = "105"/>
+				<fin A = "0" R = "98" G = "-25" B = "105"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-70" G = "-51" B = "-73"/>
+				<body A = "0" R = "-10" G = "-6" B = "-73"/>
+			</Level2>
+		</Fish35>
+		<Fish36>
+			<Level1>
+				<fin A = "0" R = "-13" G = "-83" B = "86"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-92" G = "29" B = "178"/>
+			</Level2>
+		</Fish36>
+		<Fish37>
+			<Level1>
+				<body A = "0" R = "-13" G = "-10" B = "120"/>
+				<fin A = "0" R = "41" G = "44" B = "120"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "-83" G = "-6" B = "86"/>
+			</Level2>
+		</Fish37>
+		<Fish38>
+			<Level1>
+				<fin A = "0" R = "-102" G = "3" B = "95"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "184" G = "108" B = "-102"/>
+			</Level2>
+		</Fish38>
+		
+		<Fish39>
+			<Level1>
+				<fin A = "0" R = "102" G = "-76" B = "-32"/>
+				<body A = "0" R = "95" G = "-98" B = "13"/>
+			</Level1>
+			<Level2>
+				<body A = "0" R = "0" G = "0" B = "-133"/>
+				<fin A ="0" R = "0" G = "0" B = "-133"/>
+			</Level2>
+		</Fish39>
+		<Fish40>
+			<Level1>
+				<fin A = "0" R = "-83" G = "-32" B = "140"/>
+			</Level1>
+			<Level2>
+				<fin A = "0" R = "117" G = "-140" B = "95"/>
+			</Level2>
+		</Fish40>
+	</FishList>
+	
+	<ContentList>
+		<EnergyItem1>v1</EnergyItem1>
+		<EnergyItem2>v1</EnergyItem2>
+		<EnergyItem3>v1</EnergyItem3>
+		<EnergyItem4>v1</EnergyItem4>
+		<EnergyItem5>v1</EnergyItem5>
+		<EnergyItem6>v1</EnergyItem6>
+		
+		<Material1>v1</Material1>
+		<Material1S>v1</Material1S>
+		<Material2>v1</Material2>
+		<Material2S>v1</Material2S>
+		<Material3>v1</Material3>
+		<Material3S>v1</Material3S>
+		<Material4>v1</Material4>
+		<Material4S>v1</Material4S>
+		<Material5>v1</Material5>
+		<Material5S>v1</Material5S>
+		<Material6>v1</Material6>
+		<Material6S>v1</Material6S>
+		<Material7>v1</Material7>
+		<Material7S>v1</Material7S>
+		<Material8>v1</Material8>
+		<Material8S>v1</Material8S>
+		<Material9>v1</Material9>
+		<Material9S>v1</Material9S>
+		<Material10>v1</Material10>
+		<Material10S>v1</Material10S>
+		<Material11>v1</Material11>
+		<Material11S>v1</Material11S>
+		<Material12>v1</Material12>
+		<Material13>v2</Material13>
+		<Material14>v1</Material14>
+
+		<GodCharm1>v1</GodCharm1>
+		<GodCharm2>v1</GodCharm2>
+		<GodCharm3>v1</GodCharm3>
+		<GodCharm4>v1</GodCharm4>
+		<GodCharm5>v1</GodCharm5>
+		
+		<HerbPotion1>v1</HerbPotion1>
+		<HerbPotion2>v1</HerbPotion2>
+		<HerbPotion3>v1</HerbPotion3>
+		
+		<HerbMedal1>v1</HerbMedal1>
+		
+		<GuiShop>v2</GuiShop>
+		<GuiDailyQuest>v1</GuiDailyQuest>
+		<GuiSelectGift>v1</GuiSelectGift>
+		<GuiSendGift>v1</GuiSendGift>
+		<GuiReceiveGift>v1</GuiReceiveGift>
+		<GuiNewMail>v2</GuiNewMail>
+		<GuiLetter>v1</GuiLetter>
+		<GuiLog>v1</GuiLog>
+		<GuiAnnounce>v22</GuiAnnounce>
+		<GuiSnapshot>v1</GuiSnapshot>
+		<GuiStatistics>v1</GuiStatistics>
+		<GuiChooseEquipment>v7</GuiChooseEquipment>
+		<GuiEnchant>v3</GuiEnchant>
+		<GuiBuyGodCharm>v1</GuiBuyGodCharm>
+		<GuiCollection>v4</GuiCollection>
+		<GuiPearlRefine>v4</GuiPearlRefine>
+		<GuiRecoverPearl>v1</GuiRecoverPearl>
+		<GuiDeletePearl>v1</GuiDeletePearl>
+		<GuiHuyDanLuyen>v1</GuiHuyDanLuyen>
+		<GuiGuidePearlRefine>v2</GuiGuidePearlRefine>
+		<GuiMateFish>v1</GuiMateFish>
+		<GuiDailyEnergyBonusFinish>v1</GuiDailyEnergyBonusFinish>
+		<GuiDailyEnergyBonus>v1</GuiDailyEnergyBonus>
+		<GuiGuideLuckyMachine>v1</GuiGuideLuckyMachine>
+		<GuiDigitWheel>v4</GuiDigitWheel>
+		<GuiDigitWheelCongrat>v1</GuiDigitWheelCongrat>
+		<GuiExtendEquipment>v2</GuiExtendEquipment>
+		<GuiChooseSoldier>v1</GuiChooseSoldier>
+		<GuiDiarySoldier>v1</GuiDiarySoldier>
+		<GuiEventFishWar>v1</GuiEventFishWar>
+		<GuiEventFishWar2>v1</GuiEventFishWar2>
+		<GuiExchangeStar>v1</GuiExchangeStar>
+		<GuiFishWar>v2</GuiFishWar>
+		<GuiRecoverHealth>v1</GuiRecoverHealth>
+		<GuiRevive>v1</GuiRevive>
+		<GuiSoldierInfo>v2</GuiSoldierInfo>
+		<GuiAddEnergy>v1</GuiAddEnergy>
+		<GuiAddMoneyMagnet>v1</GuiAddMoneyMagnet>
+		<GuiBuyFish>v1</GuiBuyFish>
+		<GuiCongratTuiTanThu>v1</GuiCongratTuiTanThu>
+		<GuiEnergyMachine>v1</GuiEnergyMachine>
+		<GuiExpandLake>v1</GuiExpandLake>
+		<GuiFillEnergy>v1</GuiFillEnergy>
+		<GuiFishingCannot>v1</GuiFishingCannot>
+		<GuiFishingFail>v1</GuiFishingFail>
+		<GuiFishingSuccess>v1</GuiFishingSuccess>
+		<GuiFishMachine>v1</GuiFishMachine>
+		<GuiGuideFM>v1</GuiGuideFM>
+		<GuiGuideMagnetMoney>v1</GuiGuideMagnetMoney>
+		<GuiHelp>v1</GuiHelp>
+		<GuiNapG>v1</GuiNapG>
+		<GuiReceiveLetter>v3</GuiReceiveLetter>
+		<GuiReplyLetter>v1</GuiReplyLetter>
+		<GuiSeriesQuest1>v2</GuiSeriesQuest1>
+		<GuiSeriesQuest2>v1</GuiSeriesQuest2>
+		<GuiSeriesQuest3>v1</GuiSeriesQuest3>
+		<GuiSeriesQuest4>v1</GuiSeriesQuest4>
+		<GuiSeriesQuest5>v1</GuiSeriesQuest5>
+		<GuiSeriesQuest6>v1</GuiSeriesQuest6>
+		<GuiSeriesQuest7>v1</GuiSeriesQuest7>
+		<GuiSeriesQuest8>v1</GuiSeriesQuest8>
+		<GuiSplitPearl>v1</GuiSplitPearl>
+		<GuiTanThuDetailClickFinish>v2</GuiTanThuDetailClickFinish>
+		<GuiTanThuDetailClickWait>v2</GuiTanThuDetailClickWait>
+		<GuiTreasureGift>v1</GuiTreasureGift>
+		<GuiOpenLake>v1</GuiOpenLake>
+		<GuiUpgradeSkill>v1</GuiUpgradeSkill>
+		<GuiUpgradeSkillMaterial>v1</GuiUpgradeSkillMaterial>
+		<GuiRawMaterials>v1</GuiRawMaterials>
+		<GuiUnlockLake>v1</GuiUnlockLake>
+		<GuiFinalKillBoss>v3</GuiFinalKillBoss>
+		<GuiFishWarBoss>v2</GuiFishWarBoss>
+		<GuiMapOcean>v3</GuiMapOcean>
+		<GuiGenerating>v1</GuiGenerating>
+		<GuiStoreEquipment>v1</GuiStoreEquipment>
+		<GuiUnlockOcean>v4</GuiUnlockOcean>
+		<GuiWaitRejoinMap>v3</GuiWaitRejoinMap>
+		<GuiIntroOcean>v4</GuiIntroOcean>
+		<GuiBuySpirit>v1</GuiBuySpirit>
+		<GuiChooseFactory>v1</GuiChooseFactory>
+		<GuiCreateEquipment>v1</GuiCreateEquipment>
+		<GuiSeparateEquipment>v1</GuiSeparateEquipment>
+		<GuiDailyBonus>v2</GuiDailyBonus>
+		<GuiDailyBonusCongrat>v1</GuiDailyBonusCongrat>
+		<GuiCongratulation>v1</GuiCongratulation>
+		<GuiExtendDeco>v1</GuiExtendDeco>
+		<GuiReceiveExp>v1</GuiReceiveExp>
+		<GuiOptionGrave>v1</GuiOptionGrave>
+		<GuiBlackMarket>v2</GuiBlackMarket>
+		<GuiShopMarket>v2</GuiShopMarket>
+		<GuiChooseNumber>v1</GuiChooseNumber>
+		<LoadingWorld>v2</LoadingWorld>
+		<LoadingWar>v2</LoadingWar>
+		<GuiBuyDiamond>v1</GuiBuyDiamond>
+		<GuiNoDiamond>v1</GuiNoDiamond>
+		<GuiQuestPowerTinh>v1</GuiQuestPowerTinh>
+		<GuiInputCode>v2</GuiInputCode>
+		<GuiReadSystemMail>v1</GuiReadSystemMail>
+		<GuiGetGiftAfterEvent>v1</GuiGetGiftAfterEvent>
+		<GuiInputCodeSuccess>v3</GuiInputCodeSuccess>
+		<GuiChooseElement>v1</GuiChooseElement>
+		<GuiIntroBetaMarket>v1</GuiIntroBetaMarket>
+		<GuiMagicLamp>v1</GuiMagicLamp>
+		<GuiMeridian>v2</GuiMeridian>
+		<GuiTraining>v3</GuiTraining>
+		<GuiIntroduceFeature>v1</GuiIntroduceFeature>
+		<GuiMainQuest>v1</GuiMainQuest>
+		<GuiChooseSoldierQuest>v1</GuiChooseSoldierQuest>
+		<GuiIntroFishWarQuest>v1</GuiIntroFishWarQuest>
+		<GuiEventEuro>v1</GuiEventEuro>
+		<GuiEuroRewards>v1</GuiEuroRewards>
+		<GuiPrediction>v1</GuiPrediction>
+		<GuiBuyBalls>v2</GuiBuyBalls>
+		<GuiSelectSoldier>v1</GuiSelectSoldier>
+		<GuiRecieveMedal>v1</GuiRecieveMedal>
+		<GuiLeague>v1</GuiLeague>
+		<GuiTopLeague>v1</GuiTopLeague>
+		<GuiLeagueDailyGift>v1</GuiLeagueDailyGift>
+		<GuiLeagueFinishFight>v2</GuiLeagueFinishFight>
+		<GuiLeagueGift>v1</GuiLeagueGift>
+		<GuiLeagueGuide>v1</GuiLeagueGuide>
+		<GuiPassword>v2</GuiPassword>
+		<GuiExpedition>v1</GuiExpedition>
+		<GuiAddZMoney>v2</GuiAddZMoney>
+		<GuiMainBossServer>v2</GuiMainBossServer>
+		<GuiListBossServer>v1</GuiListBossServer>
+		<GuiGiftBossServer>v1</GuiGiftBossServer>
+		<GuiLevelUp>v1</GuiLevelUp>
+		<GuiFirstPay>v1</GuiFirstPay>
+		<GuiUnlockEquip>v1</GuiUnlockEquip>
+		<GuiMachineMystery>v1</GuiMachineMystery>
+		<GuiChallengeKnowledge>v1</GuiChallengeKnowledge>
+		<GuiMapSkill>v1</GuiMapSkill>
+		<GuiBackground>v1</GuiBackground>
+		<GuiQuickBuyFuel>v1</GuiQuickBuyFuel>
+		<GuiQuickBuyOneFuel>v1</GuiQuickBuyOneFuel>
+		<GuiStoreGift>v1</GuiStoreGift>
+		<EventMidAutumnGuiGuide>v1</EventMidAutumnGuiGuide>
+		<GuiChangeMedal>v1</GuiChangeMedal>
+		<GuiFinalGift>v1</GuiFinalGift>
+		<GuiChooseModeHard>v1</GuiChooseModeHard>
+		<GuiHalloween>v1</GuiHalloween>
+		<GuiDisplayFight>v1</GuiDisplayFight>
+		<GuiBuyRock>v1</GuiBuyRock>
+		<GuiBuyKey>v1</GuiBuyKey>
+		<GuiTrickTreat>v1</GuiTrickTreat>
+		<GuiTrickTask>v1</GuiTrickTask>
+		<GuiLockHalloween>v1</GuiLockHalloween>
+		<GuiFinishAuto>v1</GuiFinishAuto>
+		<GuiGiftHalloween>v2</GuiGiftHalloween>
+		<GuiSavePoint>v1</GuiSavePoint>
+		<GuiHalloweenMedal>v2</GuiHalloweenMedal>
+		<GuiBuyContinue>v1</GuiBuyContinue>
+		<GuiGiftMedal>v1</GuiGiftMedal>
+		<GuiMessageAuto>v1</GuiMessageAuto>
+		<GuiGiftSaveHalloween>v1</GuiGiftSaveHalloween>
+		<GuiChooseSkill>v1</GuiChooseSkill>
+		<GuiReputation>v4</GuiReputation>
+		<GuiSpecialSmithy>v2</GuiSpecialSmithy>
+		<GuiBadExpedition>v1</GuiBadExpedition>
+		<GuiLuckyExpedition>v1</GuiLuckyExpedition>
+		<GuiGiftExpedition>v1</GuiGiftExpedition>
+		<GuiCollectionTeacher>v2</GuiCollectionTeacher>
+		<GuiGuideTeacher>v2</GuiGuideTeacher>
+		<GuiTooltipEgg>v2</GuiTooltipEgg>
+		
+		<GuiExchangeCandy>v3</GuiExchangeCandy>
+		<GuiHuntFish>v3</GuiHuntFish>
+		<GuiExchangeNoelItem>v1</GuiExchangeNoelItem>
+		<GuiGiftEventNoel>v1</GuiGiftEventNoel>
+		<GuiShocksNoel>v1</GuiShocksNoel>
+		<GuiOnlineGift>v4</GuiOnlineGift>
+		<GuiTooltipGiftBox>v1</GuiTooltipGiftBox>
+		<GuiFinishRound>v2</GuiFinishRound>
+		<GuiStoreNoel>v2</GuiStoreNoel>
+		<GuiFinishEventAuto>v1</GuiFinishEventAuto>
+		<GuiReceiveGiftTet>v2</GuiReceiveGiftTet>
+		<GuiVIPTrunk>v2</GuiVIPTrunk>
+		
+		<EventMidAutumnGuiCollection>v1</EventMidAutumnGuiCollection>
+		<EventMidAutumnGuiReborn>v1</EventMidAutumnGuiReborn>
+		<LoadingForestWorld>v4</LoadingForestWorld>
+
+		<ForestWorldBossRedUp>v1</ForestWorldBossRedUp>
+		<ForestWorldMonsterRedUp>v1</ForestWorldMonsterRedUp>
+		<ForestWorldSnakeBoss>v1</ForestWorldSnakeBoss>
+		<ForestWorldSnakeNormal>v1</ForestWorldSnakeNormal>
+		<ForestWorldBossRound2>v1</ForestWorldBossRound2>
+		<ForestWorldBossGetGift>v1</ForestWorldBossGetGift>
+		<GuiTournament>v2</GuiTournament>
+		<Dice1>v1</Dice1>
+		<Weapon403>v1</Weapon403>
+		<Weapon101>v1</Weapon101>
+		<Weapon102>v1</Weapon102>
+		<Weapon201>v1</Weapon201>
+		<Weapon202>v1</Weapon202>
+		<Armor101>v1</Armor101>
+		<Armor102>v1</Armor102>
+		<Armor202>v1</Armor202>
+		<Helmet101>v1</Helmet101>
+		<Helmet102>v1</Helmet102>
+		<Helmet201>v1</Helmet201>
+		<Helmet202>v1</Helmet202>
+		<fameTitle10>v1</fameTitle10>
+		
+		<BackGround1>v1</BackGround1>
+		<BackGround201>v1</BackGround201>
+		
+		<GuiTrungLinhThach>v8</GuiTrungLinhThach>
+		<GuiWareRoomLinhThach>v3</GuiWareRoomLinhThach>
+		<GuiUpdateLinhThach>v4</GuiUpdateLinhThach>
+		<GUIHuongDan></GUIHuongDan>
+		<GuiShowQuartzUser>v2</GuiShowQuartzUser>
+		<GuiBuyHammerSaleOff>v1</GuiBuyHammerSaleOff>
+		<GuiBonusTrungLinhThach></GuiBonusTrungLinhThach>
+		
+		<GuiMixMaterial>v1</GuiMixMaterial>
+		<TooltipTrunkOnline>v1</TooltipTrunkOnline>
+		
+		<GUIUpgradeEquip></GUIUpgradeEquip>
+		<GiftBox2>v1</GiftBox2>
+		
+	</ContentList>
+	
+	<BackGroundAttribute>
+		<BackGround1>small</BackGround1>
+		<BackGround2>big</BackGround2>
+		<BackGround3>big</BackGround3>
+		<BackGround4>big</BackGround4>
+		<BackGround5>big</BackGround5>
+		<BackGround6>big</BackGround6>
+		<BackGround7>small</BackGround7>
+		<BackGround8>small</BackGround8>
+		<BackGround101>small</BackGround101>
+		<BackGround102>small</BackGround102>
+		<BackGround103>small</BackGround103>
+		<BackGround104>small</BackGround104>
+		<BackGround105>small</BackGround105>
+		<BackGround106>small</BackGround106>
+		<BackGround107>small</BackGround107>
+		<BackGround108>small</BackGround108>
+		<BackGround109>small</BackGround109>
+		<BackGround111>small</BackGround111>
+		<BackGround112>small</BackGround112>
+		<BackGround113>small</BackGround113>
+		<BackGround114>small</BackGround114>
+		<BackGround115>small</BackGround115>
+		<BackGround116>small</BackGround116>
+		<BackGround117>small</BackGround117>
+		<BackGround118>small</BackGround118>
+		<BackGround201>small</BackGround201>
+	</BackGroundAttribute>
+</main>
